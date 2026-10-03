@@ -6,15 +6,15 @@
   },
   "game_assets_index": {
     "name": "26.3-feather-game.json",
-    "sha1": "f8a4b0071155bcfad32d83a39d78b6da48b7a6e6",
-    "url": "https://piston-meta.mojang.com/v1/packages/f8a4b0071155bcfad32d83a39d78b6da48b7a6e6/32.json"
+    "sha1": "abfaa525f923f807df8b4e4d29c1b5e3a104adbe",
+    "url": "https://piston-meta.mojang.com/v1/packages/abfaa525f923f807df8b4e4d29c1b5e3a104adbe/34.json"
   },
   "libraries": [
     {
       "name": "net/minecraft/client/26.3/minecraft-26.3.jar",
-      "sha1": "2dc72797acbc1b63fc16a11c4ac393605f453754",
-      "size": 39193383,
-      "url": "https://piston-data.mojang.com/v1/objects/2dc72797acbc1b63fc16a11c4ac393605f453754/client.jar"
+      "sha1": "e877b6a07acd633fb3bb475002175cec036e7b87",
+      "size": 41483720,
+      "url": "https://piston-data.mojang.com/v1/objects/e877b6a07acd633fb3bb475002175cec036e7b87/client.jar"
     },
     {
       "classpath": false,
