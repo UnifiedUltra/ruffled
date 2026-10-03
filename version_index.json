@@ -1,0 +1,247 @@
+{
+  "metadata": [
+    {
+      "name": "1.8.9",
+      "download_size": 221909012,
+      "info": {
+        "name": "1.8.9.json",
+        "sha1": "b667fb61605096d2bc7851fb77a8171c2af5496e",
+        "url": "https://game-launcher.feathermc.com/release/versions/1.8.9.json"
+      }
+    },
+    {
+      "name": "1.12.2",
+      "download_size": 221936095,
+      "info": {
+        "name": "1.12.2.json",
+        "sha1": "ad04b1cc42e831cd95d4230d9e302f90ccdda6a1",
+        "url": "https://game-launcher.feathermc.com/release/versions/1.12.2.json"
+      }
+    },
+    {
+      "name": "1.17.1-fabric",
+      "download_size": 222201726,
+      "info": {
+        "name": "1.17.1-fabric.json",
+        "sha1": "8c682c4cf5b73678d99ea9641f64ae0950efc17b",
+        "url": "https://game-launcher.feathermc.com/release/versions/1.17.1-fabric.json"
+      }
+    },
+    {
+      "name": "1.18.2-fabric",
+      "download_size": 222202778,
+      "info": {
+        "name": "1.18.2-fabric.json",
+        "sha1": "cb91ed256d2d05bc3e7061236bbb972bc4e1af6c",
+        "url": "https://game-launcher.feathermc.com/release/versions/1.18.2-fabric.json"
+      }
+    },
+    {
+      "name": "1.19-fabric",
+      "download_size": 222210697,
+      "info": {
+        "name": "1.19-fabric.json",
+        "sha1": "c87225fac8d873515fc1b1088b58e477ac424c15",
+        "url": "https://game-launcher.feathermc.com/release/versions/1.19-fabric.json"
+      }
+    },
+    {
+      "name": "1.19.2-fabric",
+      "download_size": 222218885,
+      "info": {
+        "name": "1.19.2-fabric.json",
+        "sha1": "70fc2115fba1a94022e3acaff2f6368250d0b778",
+        "url": "https://game-launcher.feathermc.com/release/versions/1.19.2-fabric.json"
+      }
+    },
+    {
+      "name": "1.19.3-fabric",
+      "download_size": 222226868,
+      "info": {
+        "name": "1.19.3-fabric.json",
+        "sha1": "ff8299812117a7555ec34deada2594c8ead48ab3",
+        "url": "https://game-launcher.feathermc.com/release/versions/1.19.3-fabric.json"
+      }
+    },
+    {
+      "name": "1.19.4-fabric",
+      "download_size": 222233175,
+      "info": {
+        "name": "1.19.4-fabric.json",
+        "sha1": "b74041e51957d0df1b915e355a5bdcc742f674f6",
+        "url": "https://game-launcher.feathermc.com/release/versions/1.19.4-fabric.json"
+      }
+    },
+    {
+      "name": "1.20-fabric",
+      "download_size": 222247314,
+      "info": {
+        "name": "1.20-fabric.json",
+        "sha1": "b9f71c179d0898321bcc93feb55f366b3ee2de1e",
+        "url": "https://game-launcher.feathermc.com/release/versions/1.20-fabric.json"
+      }
+    },
+    {
+      "name": "1.20.1-fabric",
+      "download_size": 222247314,
+      "info": {
+        "name": "1.20.1-fabric.json",
+        "sha1": "aaa9e6c0c4ee12c62e2a5634abff02dd1efb05d6",
+        "url": "https://game-launcher.feathermc.com/release/versions/1.20.1-fabric.json"
+      }
+    },
+    {
+      "name": "1.20.2-fabric",
+      "download_size": 222245412,
+      "info": {
+        "name": "1.20.2-fabric.json",
+        "sha1": "6b1823108a09eeaa29a09c1b436862abcafce8f3",
+        "url": "https://game-launcher.feathermc.com/release/versions/1.20.2-fabric.json"
+      }
+    },
+    {
+      "name": "1.20.4-fabric",
+      "download_size": 222247389,
+      "info": {
+        "name": "1.20.4-fabric.json",
+        "sha1": "072e54f18844004cc2b0ed05742bba85da4b507a",
+        "url": "https://game-launcher.feathermc.com/release/versions/1.20.4-fabric.json"
+      }
+    },
+    {
+      "name": "1.20.6-fabric",
+      "download_size": 222249373,
+      "info": {
+        "name": "1.20.6-fabric.json",
+        "sha1": "dffc94c2dbb9faa58bc6f8f0dd88a8b63e1c1b3d",
+        "url": "https://game-launcher.feathermc.com/release/versions/1.20.6-fabric.json"
+      }
+    },
+    {
+      "name": "1.21-fabric",
+      "download_size": 222252048,
+      "info": {
+        "name": "1.21-fabric.json",
+        "sha1": "b516a13fa0c0edfb0516056b923569bd68518fe8",
+        "url": "https://game-launcher.feathermc.com/release/versions/1.21-fabric.json"
+      }
+    },
+    {
+      "name": "1.21.1-fabric",
+      "download_size": 222252048,
+      "info": {
+        "name": "1.21.1-fabric.json",
+        "sha1": "4bfd05445406671fdcf7ad53ac98963a776d609a",
+        "url": "https://game-launcher.feathermc.com/release/versions/1.21.1-fabric.json"
+      }
+    },
+    {
+      "name": "1.21.3-fabric",
+      "download_size": 222265073,
+      "info": {
+        "name": "1.21.3-fabric.json",
+        "sha1": "02290e0c9f732b591cb66ab17a9747df6d38cbc7",
+        "url": "https://game-launcher.feathermc.com/release/versions/1.21.3-fabric.json"
+      }
+    },
+    {
+      "name": "1.21.4-fabric",
+      "download_size": 222171078,
+      "info": {
+        "name": "1.21.4-fabric.json",
+        "sha1": "a5b58b2b8062e7d7693301add4d8d5c95a9dbc02",
+        "url": "https://game-launcher.feathermc.com/release/versions/1.21.4-fabric.json"
+      }
+    },
+    {
+      "name": "1.21.5-fabric",
+      "download_size": 224458107,
+      "info": {
+        "name": "1.21.5-fabric.json",
+        "sha1": "a38f91e5007f817b33f5c5e9222495b4302d5a3a",
+        "url": "https://game-launcher.feathermc.com/release/versions/1.21.5-fabric.json"
+      }
+    },
+    {
+      "name": "1.21.7-fabric",
+      "download_size": 224542874,
+      "info": {
+        "name": "1.21.7-fabric.json",
+        "sha1": "f500257f1f5bfae02fe06abf9a18f823bddddb68",
+        "url": "https://game-launcher.feathermc.com/release/versions/1.21.7-fabric.json"
+      }
+    },
+    {
+      "name": "1.21.8-fabric",
+      "download_size": 224542874,
+      "info": {
+        "name": "1.21.8-fabric.json",
+        "sha1": "f45c284525f070bf54505b2da284c8b21b24a417",
+        "url": "https://game-launcher.feathermc.com/release/versions/1.21.8-fabric.json"
+      }
+    },
+    {
+      "name": "1.21.10-fabric",
+      "download_size": 224590477,
+      "info": {
+        "name": "1.21.10-fabric.json",
+        "sha1": "873062f33f1efd8553995b6ed9192f550e014bb9",
+        "url": "https://game-launcher.feathermc.com/release/versions/1.21.10-fabric.json"
+      }
+    },
+    {
+      "name": "1.21.11-fabric",
+      "download_size": 224518929,
+      "info": {
+        "name": "1.21.11-fabric.json",
+        "sha1": "579198410701dddf52cedde45352d13fe9b341d5",
+        "url": "https://game-launcher.feathermc.com/release/versions/1.21.11-fabric.json"
+      }
+    },
+    {
+      "name": "26.1-fabric",
+      "download_size": 224470482,
+      "info": {
+        "name": "26.1-fabric.json",
+        "sha1": "5967944f635fe58f101c3b48fe2d708430bc93eb",
+        "url": "https://game-launcher.feathermc.com/release/versions/26.1-fabric.json"
+      }
+    },
+    {
+      "name": "26.1.1-fabric",
+      "download_size": 224470482,
+      "info": {
+        "name": "26.1.1-fabric.json",
+        "sha1": "25ab3f8772fcfe9f2f5e063f2954d3ddabbf5878",
+        "url": "https://game-launcher.feathermc.com/release/versions/26.1.1-fabric.json"
+      }
+    },
+    {
+      "name": "26.1.2-fabric",
+      "download_size": 224470482,
+      "info": {
+        "name": "26.1.2-fabric.json",
+        "sha1": "d5fa746960afc3ff5ec2cb111efd9e6c43ec13c0",
+        "url": "https://game-launcher.feathermc.com/release/versions/26.1.2-fabric.json"
+      }
+    },
+    {
+      "name": "26.2-fabric",
+      "download_size": 224666857,
+      "info": {
+        "name": "26.2-fabric.json",
+        "sha1": "2cc742ea92df41ae5787aab5d83ea1d131746007",
+        "url": "https://game-launcher.feathermc.com/release/versions/26.2-fabric.json"
+      }
+    },
+    {
+      "name": "26.3-fabric",
+      "download_size": 226957194,
+      "info": {
+        "name": "26.3-fabric.json",
+        "sha1": "3ffb51f65894c3e23e018ec7aa88d765ffeb9c93",
+        "url": "https://cdn.jsdelivr.net/gh/UnifiedUltra/ruffled@main/26.3-fabric.json"
+      }
+    }
+  ]
+}
