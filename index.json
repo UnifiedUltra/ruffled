@@ -2,7 +2,7 @@
   "libraries": [
     {
       "name": "feather-loader-0.1.1.jar",
-      "sha1": "0a413ef2050144f65e9cf4e1aa753daf39ae4f87",
+      "sha1": "53a335567d3b143c3f0eb01645fe6392d3111bd6",
       "url": "https://github.com/UnifiedUltra/ruffled/raw/refs/heads/main/feather-loader-0.1.1.jar",
       "classpath": true
     }
