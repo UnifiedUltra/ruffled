@@ -290,10 +290,10 @@
       "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-freetype/3.4.1/lwjgl-freetype-3.4.1.jar"
     },
     {
-      "name": "org/lwjgl/lwjgl-glfw/3.4.3/lwjgl-glfw-3.4.3.jar",
-      "sha1": "06ef4a0ab443924a1efb5dd6afdaa7bb25d36b44",
-      "size": 152633,
-      "url": "https://build.lwjgl.org/release/3.4.3/bin/lwjgl-glfw/lwjgl-glfw.jar"
+      "name": "org/lwjgl/lwjgl-glfw/3.4.1/lwjgl-glfw-3.4.1.jar",
+      "sha1": "a782b1ddd175c9107bf300fd92920579ea65e2a4",
+      "size": 151893,
+      "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-glfw/3.4.1/lwjgl-glfw-3.4.1.jar"
     },
     {
       "name": "org/lwjgl/lwjgl-jemalloc/3.4.1/lwjgl-jemalloc-3.4.1.jar",
