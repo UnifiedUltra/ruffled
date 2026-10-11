@@ -6,7 +6,7 @@
       "info": {
         "name": "1.8.9.json",
         "sha1": "b667fb61605096d2bc7851fb77a8171c2af5496e",
-        "url": "https://game-launcher.feathermc.com/release/versions/1.8.9.json"
+        "url": "https://cdn.jsdelivr.net/gh/UnifiedUltra/ruffled@main/1.8.9.json"
       }
     },
     {
@@ -231,7 +231,7 @@
       "info": {
         "name": "26.2-fabric.json",
         "sha1": "2cc742ea92df41ae5787aab5d83ea1d131746007",
-        "url": "https://game-launcher.feathermc.com/release/versions/26.2-fabric.json"
+        "url": "https://cdn.jsdelivr.net/gh/UnifiedUltra/ruffled@main/26.2-fabric.json"
       }
     },
     {
